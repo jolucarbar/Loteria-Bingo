@@ -55,3 +55,5 @@ La lógica central requiere extraer números del 1 al 90 sin repeticiones y de f
 1. Clona este repositorio:
    ```bash
    git clone [https://github.com/jolucarbar/Loteria-Bingo.git]
+2. Puedes descargar el archivo Loteria-v1.0.apk desde Releases.
+
