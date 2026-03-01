@@ -54,4 +54,4 @@ La lógica central requiere extraer números del 1 al 90 sin repeticiones y de f
 
 1. Clona este repositorio:
    ```bash
-   git clone [https://github.com/tu-usuario/Loteria-Bingo.git](https://github.com/tu-usuario/Loteria-Bingo.git)
+   git clone [https://github.com/jolucarbar/Loteria-Bingo.git](https://github.com/tu-usuario/Loteria-Bingo.git)
